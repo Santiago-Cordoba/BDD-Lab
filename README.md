@@ -43,7 +43,8 @@ Feature: Google Search
 ```javac
 mvn clean test
 ```
-##Prueba de su funcionamiento
+## Prueba de su funcionamiento
+
 <img width="444" height="67" alt="image" src="https://github.com/user-attachments/assets/b44cd734-0b05-4703-95f3-76225cb1dcad" />
 
 <img width="1865" height="431" alt="image" src="https://github.com/user-attachments/assets/dc764824-63c6-4ef4-8416-adf88f766746" />
